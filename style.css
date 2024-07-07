@@ -1,0 +1,14 @@
+html{
+    background-color: black;
+}
+ h1{
+    color: azure;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blue;
+ }
+ h2{
+    color: aquamarine;
+ }
+ h3{
+    color: red;
+ }
